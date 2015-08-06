@@ -14,6 +14,8 @@ Just implement as much functionality as you can in a timebox of 2 hours focusing
 
 ![](https://www.evernote.com/l/AHR6kVOimNhEAptuqzsASeKXsCVHHXON5VwB/image.png)
 
+Ideally with languages as inline formset where languages can be added/removed in the list.
+
 ### 2. Tour Leads List view
 
 ![](https://www.evernote.com/l/AHRlRb8RWsxI4ZfsCMdDawIptRNdWTCOtD0B/image.png)
