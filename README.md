@@ -37,3 +37,19 @@ Same as add
 ### 7. Batch Delete
 
 ![](https://www.evernote.com/l/AHSsX1ZWe5hC2piuYM7Yk5rQJGBkwTujGNcB/image.png)
+
+## Project setup
+
+1. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+2. Run django server:
+
+```
+./manage.py runserver
+```
+
+3. Open http://localhost:8000/leads/ in a browser
