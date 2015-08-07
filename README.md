@@ -6,7 +6,10 @@ This test is for a simple Django CRUD views to add, edit and display tour leader
 
 UI mockup is in [crud-test.html](crud-test.html).
 
-Just implement as much functionality as you can in a timebox of 2 hours focusing fist on quality rather than quantity.
+Just implement as much functionality as you can in a time-box of 2 hours focusing fist on quality rather than quantity.
+
+There're a lot of requirements so you're not expected to complete all of them, implement what you can and do it well,
+And don't leave half implemented code and functionality, remove anything that's not completely finished in the final result.
 
 ## Functionality to implement (in order of priority)
 
@@ -15,6 +18,8 @@ Just implement as much functionality as you can in a timebox of 2 hours focusing
 ![](https://www.evernote.com/l/AHR6kVOimNhEAptuqzsASeKXsCVHHXON5VwB/image.png)
 
 Ideally with languages as inline formset where languages can be added/removed in the list.
+
+![](https://www.evernote.com/l/AHSY8s1byANBk7YjdpsjcLT9dkai28MYDcwB/image.png)
 
 ### 2. Tour Leads List view
 
@@ -55,3 +60,5 @@ pip install -r requirements.txt
 ```
 
 3. Open http://localhost:8000/leads/ in a browser
+
+## Good Luck!
