@@ -11,15 +11,38 @@ Just implement as much functionality as you can in a time-box of 2 hours focusin
 There're a lot of requirements so you're not expected to complete all of them, implement what you can and do it well,
 And don't leave half implemented code and functionality, remove anything that's not completely finished in the final result.
 
+At least the fist function (Add Lead) has to be implemented perfectly from every perspective (function, logic, code quality, tests, UX).
+
 ## Functionality to implement (in order of priority)
 
 ### 1. Add Tour Lead view
 
 ![](https://www.evernote.com/l/AHR6kVOimNhEAptuqzsASeKXsCVHHXON5VwB/image.png)
 
-Ideally with languages as inline formset where languages can be added/removed in the list.
+It should be with languages as inline formset where languages can be added/removed in the list.
 
 ![](https://www.evernote.com/l/AHSY8s1byANBk7YjdpsjcLT9dkai28MYDcwB/image.png)
+
+Fields:
+
+* Name
+    - Required
+* Gender
+    - Required
+    - Widget: horizontal radio buttons
+* Languages
+    - Required: at least one language should be added
+    - Widget: Inline formset
+* Card number
+    - Length: 8-15
+    - Only numbers and capital letters: X, T, W are allowed
+* Expiry date
+    - Required if Card number is not empty
+    - Has to be at least 6 months into the future
+    - Widget: Datepicker
+* Professional
+    - Required
+    - Widget: horizontal radio buttons
 
 ### 2. Tour Leads List view
 
