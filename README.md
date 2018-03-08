@@ -11,7 +11,7 @@ Just implement as much functionality as you can in a time-box of 2 hours focusin
 There're a lot of requirements so you're not expected to complete all of them, implement what you can and do it well,
 And don't leave half implemented code and functionality, remove anything that's not completely finished in the final result.
 
-At least the fist function (Add Lead) has to be implemented perfectly from every perspective (function, logic, code quality, tests, UX).
+At least the first function (Add Lead) has to be implemented perfectly from every perspective (function, logic, code quality, tests, UX).
 
 ## Functionality to implement (in order of priority)
 
