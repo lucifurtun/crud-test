@@ -26,10 +26,10 @@ Fields:
     - Required
 * Gender
     - Required
-    - Widget: horizontal radio buttons
+    - Widget: Horizontal radio buttons
 * Languages
     - Required: at least one language should be added
-    - Widget: Inline formset
+    - Widget: Dropdown
 * Card number
     - Length: 8-15
     - Only numbers and capital letters: X, T, W are allowed
@@ -43,7 +43,7 @@ Fields:
 
 ### 2. Tour Leads List view
 
-![](https://www.evernote.com/l/AHRlRb8RWsxI4ZfsCMdDawIptRNdWTCOtD0B/image.png)
+![](https://raw.githubusercontent.com/lucifurtun/crud-test/master/images/2.png)
 
 ### 3. Edit Tour Lead view
 
@@ -51,19 +51,19 @@ Same as add
 
 ### 4. Tour Lead Detail view
 
-![](https://www.evernote.com/l/AHSPFjRgvBROzamFG2_cvifetmFCZ-6CTgoB/image.png)
+![](https://raw.githubusercontent.com/lucifurtun/crud-test/master/images/3.png)
 
 ### 5. Delete Tour Lead
 
-![](https://www.evernote.com/l/AHTpOW13eelOX44ZWOaG8psPjLFeGKvKUvYB/image.png)
+![](https://raw.githubusercontent.com/lucifurtun/crud-test/master/images/4.png)
 
 ### 6. Pagination
 
-![](https://www.evernote.com/l/AHQPkBVV1X5DaaiUWL0TaQTHeU6DyIzbuqsB/image.png)
+![](https://raw.githubusercontent.com/lucifurtun/crud-test/master/images/5.png)
 
 ### 7. Batch Delete
 
-![](https://www.evernote.com/l/AHSsX1ZWe5hC2piuYM7Yk5rQJGBkwTujGNcB/image.png)
+![](https://raw.githubusercontent.com/lucifurtun/crud-test/master/images/6.png)
 
 ## Project setup
 
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 2. Run django server:
 
 ```
-./manage.py runserver
+python manage.py runserver
 ```
 
 3. Open http://localhost:8000/leads/ in a browser
