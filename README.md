@@ -17,7 +17,7 @@ At least the fist function (Add Lead) has to be implemented perfectly from every
 
 ### 1. Add Tour Lead view
 
-![](https://www.evernote.com/l/AHR6kVOimNhEAptuqzsASeKXsCVHHXON5VwB/image.png)
+![](https://raw.githubusercontent.com/lucifurtun/crud-test/master/images/1.png)
 
 
 Fields:
