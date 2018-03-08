@@ -19,9 +19,6 @@ At least the fist function (Add Lead) has to be implemented perfectly from every
 
 ![](https://www.evernote.com/l/AHR6kVOimNhEAptuqzsASeKXsCVHHXON5VwB/image.png)
 
-It should be with languages as inline formset where languages can be added/removed in the list.
-
-![](https://www.evernote.com/l/AHSY8s1byANBk7YjdpsjcLT9dkai28MYDcwB/image.png)
 
 Fields:
 
